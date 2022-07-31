@@ -7,3 +7,5 @@ Hello World , I'm Aadit Palande 👋
 [Twitter : @aadit2002nov](https://twitter.com/aadit2002nov) , Discord : CoOLLaItAr#5816 , Email : aadit2002nov@gmail.com 
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: I spend my precious time into college studies ! 🙂
+
+<img src="https://github-readme-stats.vercel.app/api?username=Coollaitar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
