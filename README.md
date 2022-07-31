@@ -8,4 +8,4 @@ Hello World , I'm Aadit Palande 👋
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: I spend my precious time into college studies ! 🙂
 
-<img src="https://github-readme-stats.vercel.app/api?username=Coollaitar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="[https://github-readme-stats.vercel.app/api?username=Coollaitar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515](https://github-readme-stats.vercel.app/api?username=Coollaitar&&show_icons=true&title_color=ffffff&icon_color=775BD5&text_color=FFFFFF&bg_color=000000)">
