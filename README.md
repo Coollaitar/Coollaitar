@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Aadit Palande</h1>
 <h3 align="center">Data Scientist || Python || C || Blockchain Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coollaitar&label=Profile%20views&color=43FFB5&style=flat" alt="coollaitar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coollaitar&label=Profile%20views&color=0e75b6&style=flat" alt="coollaitar" /> </p>
 
 - 🔭 I’m currently working on **my Skills !**
 
