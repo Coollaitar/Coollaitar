@@ -11,5 +11,4 @@ Hello World , I'm Aadit Palande 👋
 
 
 
-
 <img src="https://github-readme-stats.vercel.app/api?username=Coollaitar&&show_icons=true&title_color=ffffff&icon_color=775BD5&text_color=FFFFFF&bg_color=000000">
