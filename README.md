@@ -6,7 +6,7 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="224px" height="30px" version="1.1">
     <title>Count</title>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <p id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
   
         <rect id="Rectangle" fill="#000000" x="0" y="0.5" width="29" height="29"/>
         <text id="0" font-family="Courier" font-size="24" font-weight="normal" fill="#00FF13">
@@ -43,7 +43,7 @@
             <tspan x="199" y="22">9</tspan>
         </text>
 
-    </g>
+    </p>
 </svg>
 
 - 🔭 I’m currently working on **my Skills !**
