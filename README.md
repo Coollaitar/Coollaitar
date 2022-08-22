@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I spend my precious time into college studies !**
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Coollaitar)](https://github.com/Coollaitar/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Coollaitar&theme=react-dark)](https://github.com/Coollaitar/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
