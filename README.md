@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I spend my precious time into college studies !**
 
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Coollaitar&theme=react-dark)](https://github.com/Coollaitar/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Coollaitar&theme=react-dark)]
 
 <img src="https://github-readme-stats.vercel.app/api?username=Coollaitar&&show_icons=true&title_color=#1AC4BF&icon_color=775BD5&text_color=#1AC4BF&bg_color=FFFFFF">
 
