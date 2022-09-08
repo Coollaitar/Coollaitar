@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my Skills !**
 
-- 🌱 I’m currently learning **Machine Learning , CPP , Solidity**
+- 🌱 I’m currently learning **NLP(Natural Language Processing) , CPP , Blockchain Development and NFT's**
 
 - 🤝 I’m looking for help with **DSA and Blockchain Technology**
 
