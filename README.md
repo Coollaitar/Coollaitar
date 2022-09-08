@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello World 👋, I'm Aadit Palande</h1>
-<h3 align="center">Data Scientist || Python || C || Blockchain Enthusiast</h3>
+<h3 align="center">Data Scientist || Machine Learning || Python || C/C++ || Blockchain Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coollaitar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="coollaitar" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **DSA and Blockchain Technology**
 
-- 💬 Ask me about **Data Science , Python , C , Basics of Solidity.**
+- 💬 Ask me about **Data Science , Machine Learning , Python , C/C++ , Basics of Solidity.**
 
 - 📫 How to reach me **LinkedIn : https://www.linkedin.com/in/aadit-palande-839a8b22a , Twitter : @aadit2002nov , Discord : CoOLLaItAr#5816 , Email : aadit2002nov@gmail.com**
 
