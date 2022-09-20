@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello World ![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif), I'm Aadit Palande</h1>
+<h1 align="center">Hello World</h1> ![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)<h1 align="center"> I'm Aadit Palande</h1>
 <h3 align="center">Machine Learning | Data Scientist | Python | C/C++ | Blockchain Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coollaitar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="coollaitar" /> </p>
