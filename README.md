@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coollaitar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="coollaitar" /> </p>
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
 - 🔭 I’m currently working on **my Skills !**
 
 - 🌱 I’m currently learning **NLP(Natural Language Processing) , CPP , Blockchain Development and NFT's**
