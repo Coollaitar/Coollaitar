@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I spend my precious time into college studies !**
 
-<h2 align="center"> Social Media: </h2>
+<h1 align="center"> Social Media: </h1>
   <p align="center">
    <a href="https://www.linkedin.com/in/aadit-palande-839a8b22a">
       <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
