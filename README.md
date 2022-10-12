@@ -9,7 +9,7 @@
    <a href="https://www.linkedin.com/in/aadit-palande-839a8b22a">
       <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
     </a>
-    <a href="mailto:davids.dvm@gmail.com">
+    <a href="mailto:aadit2002nov@gmail.com">
       <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
   </p>
