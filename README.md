@@ -32,8 +32,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Coollaitar&&show_icons=true&title_color=#1AC4BF&icon_color=775BD5&text_color=#1AC4BF&bg_color=FFFFFF">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/aaditpalande.eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaditpalande.eth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aadit-palande-839a8b22a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aadit-palande-839a8b22a" height="30" width="40" /></a>
 <a href="https://kaggle.com/aaditpalande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aaditpalande" height="30" width="40" /></a>
