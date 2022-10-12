@@ -4,15 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coollaitar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="coollaitar" /> </p>
 
-<h1 align="center"> Social Media: </h1>
-  <p align="center">
-   <a href="https://www.linkedin.com/in/aadit-palande-839a8b22a">
-      <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
-    </a>
-    <a href="mailto:aadit2002nov@gmail.com">
-      <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
-    </a>
-  </p>
+
 
 - 🔭 I’m currently working on **my Skills !**
 
@@ -25,6 +17,16 @@
 - 📫 How to reach me **LinkedIn : https://www.linkedin.com/in/aadit-palande-839a8b22a , Twitter : @aadit2002nov , Discord : CoOLLaItAr#5816 , Email : aadit2002nov@gmail.com**
 
 - ⚡ Fun fact **I spend my precious time into college studies !**
+
+<h1 align="center"> Social Media: </h1>
+  <p align="center">
+   <a href="https://www.linkedin.com/in/aadit-palande-839a8b22a">
+      <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
+    </a>
+    <a href="mailto:aadit2002nov@gmail.com">
+      <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
+    </a>
+  </p>
 
 ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Coollaitar&theme=react-dark)
 
