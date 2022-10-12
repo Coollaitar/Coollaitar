@@ -21,7 +21,7 @@
 <h1 align="center"> Social Media: </h1>
   <p align="center">
    <a href="https://www.linkedin.com/in/aadit-palande-839a8b22a">
-      <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
+      <img src="https://img.shields.io/badge/linkedin-E306F5?&style=for-the-badge&logo=linkedin&logoColor=black">
     </a>
     <a href="mailto:aadit2002nov@gmail.com">
       <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
