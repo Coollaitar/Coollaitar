@@ -4,6 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coollaitar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="coollaitar" /> </p>
 
+<h1 align="center"> Social Media: </h1>
+  <p align="center">
+   <a href="https://www.linkedin.com/in/aadit-palande-839a8b22a">
+      <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
+    </a>
+    <a href="mailto:davids.dvm@gmail.com">
+      <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
+    </a>
+  </p>
+
 - 🔭 I’m currently working on **my Skills !**
 
 - 🌱 I’m currently learning **NLP(Natural Language Processing) , CPP , Blockchain Development and NFT's**
