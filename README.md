@@ -45,5 +45,5 @@
 
 
 <p align="center">
-<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=douglasdrf&theme=merko"/>
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Coollaitar&theme=merko"/>
 </p>
