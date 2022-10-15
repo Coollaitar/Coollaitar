@@ -1,6 +1,6 @@
 
 <h1 align="center">Ssup 👁️, I'm Aadit Palande</h1>
-<h3 align="center">Machine Learning | Data Scientist | Python | C/C++ | Blockchain Enthusiast</h3>
+<h3 align="center">Machine Learning | NLP | Data Scientist | Python | C/C++ | Blockchain Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coollaitar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="coollaitar" /> </p>
 
