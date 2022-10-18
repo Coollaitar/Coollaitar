@@ -42,7 +42,8 @@
 <a href="https://discord.gg/CoOLLaItAr#5816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CoOLLaItAr#5816" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -65,7 +66,7 @@
 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
-<h3 align="center">Developer:</h3>
+<h3 align="left">Developer:</h3>
 
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 
