@@ -1,7 +1,7 @@
 
 <h1 align="center">Ssup <img src="https://media.tenor.com/AqQLFB2QBaIAAAAj/christmas-carol-caroling.gif" width="40" height="40" />
 , I'm Aadit Palande</h1>
-<h3 align="center">Machine Learning | NLP | Data Scientist | Python | C/C++ | Blockchain Enthusiast  <img src="https://media.tenor.com/medDZymgJEkAAAAi/rainbow.gif" width="30" height="28" /></h3>
+<h3 align="center">Machine Learning | NLP | Data Scientist | Python | C/C++ | Blockchain Enthusiast  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coollaitar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="coollaitar" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **LinkedIn : https://www.linkedin.com/in/aadit-palande-839a8b22a , Twitter : @aadit2002nov , Discord : CoOLLaItAr#5816 , Email : aadit2002nov@gmail.com**
 
-- ⚡ Fun fact **I spend my precious time into college studies !**
+- ⚡ Fun fact **I spend my precious time into college studies !** <img src="https://media.tenor.com/medDZymgJEkAAAAi/rainbow.gif" width="30" height="28" />
 
 <h1 align="center"> Social Media: </h1>
   <p align="center">
