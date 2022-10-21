@@ -32,7 +32,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Coollaitar&&show_icons=true&title_color=#1AC4BF&icon_color=775BD5&text_color=#1AC4BF&bg_color=FFFFFF">
 
 <p align="right">
-<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Coollaitar&theme=react"/>
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Coollaitar&theme=black-ice"/>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
