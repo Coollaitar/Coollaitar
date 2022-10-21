@@ -1,7 +1,7 @@
 
 <h1 align="center">Ssup <img src="https://media.tenor.com/AqQLFB2QBaIAAAAj/christmas-carol-caroling.gif" width="40" height="40" />
 , I'm Aadit Palande</h1>
-<h3 align="center">Machine Learning | NLP | Data Scientist | Python | C/C++ | Blockchain Enthusiast <img src="https://media.tenor.com/a8Cw2kzdrPkAAAAi/rainbow-smiley.gif" width="30" height="30" /></h3>
+<h3 align="center">Machine Learning | NLP | Data Scientist | Python | C/C++ | Blockchain Enthusiast <img src="https://media.tenor.com/a8Cw2kzdrPkAAAAi/rainbow-smiley.gif" width="30" height="29" /></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coollaitar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="coollaitar" /> </p>
 
