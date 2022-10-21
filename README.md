@@ -29,7 +29,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Coollaitar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Coollaitar&&show_icons=true&title_color=#1AC4BF&icon_color=775BD5&text_color=#1AC4BF&bg_color=000000">
+<img src="https://github-readme-stats.vercel.app/api?username=Coollaitar&&show_icons=true&title_color=#1AC4BF&icon_color=775BD5&text_color=#1AC4BF&bg_color=#100111">
 
 <p align="right">
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Coollaitar&theme=black-ice"/>
