@@ -1,5 +1,5 @@
 
-<h1 align="center">Ssup <img src="[https://media.tenor.com/AqQLFB2QBaIAAAAj/christmas-carol-caroling.gif](https://media2.giphy.com/media/L59aKIC2MFyfUfrz3n/giphy.mp4?cid=790b76112f1788ae5a92768f30c913e6a7f275c1979a1764&rid=giphy.mp4&ct=g)" width="40" height="40" />
+<h1 align="center">Ssup <img src="[[https://media.tenor.com/AqQLFB2QBaIAAAAj/christmas-carol-caroling.gif](https://media2.giphy.com/media/L59aKIC2MFyfUfrz3n/giphy.mp4?cid=790b76112f1788ae5a92768f30c913e6a7f275c1979a1764&rid=giphy.mp4&ct=g)](https://media.giphy.com/media/L59aKIC2MFyfUfrz3n/giphy.gif)" width="40" height="40" />
 , I'm Aadit Palande</h1>
 <h3 align="center">Blockchain Enthusiast | Machine Learning | NLP | Data Scientist | Python | C/C++  <img src="https://media.tenor.com/medDZymgJEkAAAAi/rainbow.gif" width="30" height="28" /></h3>
 
