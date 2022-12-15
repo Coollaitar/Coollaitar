@@ -1,5 +1,5 @@
 
-<h1 align="center">Ssup <img src="https://media.giphy.com/media/1XhvinFYZbdddX1eLy/giphy.gif" width="40" height="40" />
+<h1 align="center">Ssup <img src="https://media.giphy.com/media/trN9ht5RlE3Dcwavg2/giphy.gif" width="40" height="40" />
 , I'm Aadit Palande</h1>
 <h3 align="center">Blockchain Enthusiast | Machine Learning | NLP | Data Scientist | Python | C/C++  <img src="https://media.tenor.com/medDZymgJEkAAAAi/rainbow.gif" width="30" height="28" /></h3>
 
