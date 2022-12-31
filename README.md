@@ -1,13 +1,13 @@
 
 <h1 align="center">Ssup <img src="https://media.giphy.com/media/trN9ht5RlE3Dcwavg2/giphy.gif" width="45" height="45" />
 , I'm Aadit Palande</h1>
-<h3 align="center">Blockchain Enthusiast | Machine Learning | NLP | Data Scientist | Python | C/C++  <img src="https://media.tenor.com/medDZymgJEkAAAAi/rainbow.gif" width="30" height="28" /></h3>
+<h3 align="center">Blockchain Developer | Machine Learning | NLP | Data Scientist | Python | C/C++  <img src="https://media.tenor.com/medDZymgJEkAAAAi/rainbow.gif" width="30" height="28" /></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coollaitar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="coollaitar" /> </p>
 
 - 🔭 I’m currently working on **my Skills !**
 
-- 🌱 I’m currently learning **NLP(Natural Language Processing) , CPP , DSA , Blockchain Development and NFT's**
+- 🌱 I’m currently learning **Javascript, Ethereum, Web3**
 
 - 🤝 I’m looking for help with **DSA and Blockchain Technology**
 
