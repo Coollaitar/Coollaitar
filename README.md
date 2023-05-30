@@ -27,7 +27,7 @@
     </a>
   </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Coollaitar&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Coollaitar&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Coollaitar&&show_icons=true&title_color=#1AC4BF&icon_color=775BD5&text_color=#1AC4BF&bg_color=#100111">
 
