@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Smart Contract Auditing**
 
-- 🤝 I’m looking for help with **Masterting Javascript**
+- 🤝 I’m looking for help with **Mastering Javascript**
 
 - 💬 Ask me about **Ethereum, Bitcoin, Blockchain, Mahcine Learning, Data Science**
 
