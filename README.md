@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **my Skills !**
 
-- 🌱 I’m currently learning **Javascript, Ethereum, Web3**
+- 🌱 I’m currently learning **Smart Contract Auditing**
 
-- 🤝 I’m looking for help with **DSA and Blockchain Technology**
+- 🤝 I’m looking for help with **Masterting Javascript**
 
-- 💬 Ask me about **Data Science , Machine Learning , Python , C/C++ , Basics of Solidity.**
+- 💬 Ask me about **Ethereum, Bitcoin, Blockchain, Mahcine Learning, Data Science**
 
 - 📫 How to reach me **LinkedIn : https://www.linkedin.com/in/aadit-palande-839a8b22a , Twitter : @aadit2002nov , Discord : CoOLLaItAr#5816 , Email : aadit2002nov@gmail.com**
 
