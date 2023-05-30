@@ -1,7 +1,7 @@
 
 <h1 align="center">Ssup <img src="https://thumbs.gfycat.com/EqualPowerfulKoodoo-size_restricted.gif" width="40" height="40" />
 , I'm Aadit Palande</h1>
-<h3 align="center">Blockchain Developer | Building World | Machine Learning <img src="https://media.tenor.com/medDZymgJEkAAAAi/rainbow.gif" width="30" height="28" /></h3>
+<h3 align="center">Blockchain Developer | Machine Learning <img src="https://media.tenor.com/medDZymgJEkAAAAi/rainbow.gif" width="30" height="28" /></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coollaitar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="coollaitar" /> </p>
 
