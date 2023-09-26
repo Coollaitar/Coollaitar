@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my Skills !**
 
-- 🌱 I’m currently learning **Smart Contract Auditing**
+- 🌱 I’m currently learning **Neural Network, Deep Learning**
 
 - 🤝 I’m looking for help with **Mastering Javascript**
 
