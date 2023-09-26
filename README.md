@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for help with **Mastering Javascript**
 
-- 💬 Ask me about **Ethereum, Bitcoin, Blockchain, Mahcine Learning, Data Science**
+- 💬 Ask me about **Ethereum, Bitcoin, Blockchain, Machine Learning, Data Science**
 
 - 📫 How to reach me **LinkedIn : https://www.linkedin.com/in/aadit-palande-839a8b22a , Twitter : @aadit2002nov , Discord : CoOLLaItAr#5816 , Email : aadit2002nov@gmail.com**
 
-- ⚡ Fun fact **I spend my precious time into college studies !** 
+- ⚡ Fun fact **I spend my precious time on college studies !** 
 
 <h1 align="center"> Social Media: </h1>
   <p align="center">
