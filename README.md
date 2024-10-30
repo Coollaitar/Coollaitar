@@ -1,21 +1,7 @@
 
 <h1 align="center">Ssup <img src="https://thumbs.gfycat.com/EqualPowerfulKoodoo-size_restricted.gif" width="40" height="40" />
 , I'm Aadit Palande</h1>
-<h3 align="center">Data Science | Machine Learning | Solidity Dev <img src="https://media.tenor.com/medDZymgJEkAAAAi/rainbow.gif" width="30" height="28" /></h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coollaitar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="coollaitar" /> </p>
-
-- 🔭 I’m currently working on **my Skills !**
-
-- 🌱 I’m currently learning **Neural Network, Deep Learning**
-
-- 🤝 I’m looking for help with **Mastering Javascript**
-
-- 💬 Ask me about **Ethereum, Bitcoin, Blockchain, Machine Learning, Data Science**
-
-- 📫 How to reach me **LinkedIn : https://www.linkedin.com/in/aadit-palande-839a8b22a , Twitter : @aadit2002nov , Discord : CoOLLaItAr#5816 , Email : aadit2002nov@gmail.com**
-
-- ⚡ Fun fact **I spend my precious time on college studies !** 
 
 <h1 align="center"> Social Media: </h1>
   <p align="center">
